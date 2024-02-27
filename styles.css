@@ -1,0 +1,78 @@
+h1{
+    font-family: 'Lemon', serif;
+    text-align: center;
+    font-weight: 10;
+    color:white;
+    
+}
+
+
+#sunday{
+    background-color: #F31559;
+    padding:5%;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+}
+#monday{
+    background-color: #FF6868;
+    padding:5%;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+}
+#tuesday{
+    background-color: #FFBB64;
+    padding:5%;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+}
+#wednesday{
+    background-color: #FFEAA7;
+    padding:5%;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+}
+#thursday{
+    background-color: #FFC5C5;
+    padding:5%;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+}    
+#friday{
+    background-color: #DCFFB7;;
+    padding:5%;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+}
+#saturday{
+    background-color: #9ADE7B;
+    padding:5%;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+}
+div{
+    font-family:'Libre Baskerville', serif;
+    font-family:'Merienda', cursive;
+}
+a{
+  text-decoration: none;  
+}
+body{
+    background-image: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+
+}
+h3{
+    width:50%;
+    margin-left: 25%;
+}

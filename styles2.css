@@ -1,0 +1,66 @@
+#Breakfast{
+    background-color: #5F0F40;
+    padding:30px ;
+    width: 50%;
+    margin-left:25%;
+    
+    text-align: center;
+
+    
+}
+#Lunch{
+    background-color: #FB8B24;
+    padding:30px ;
+    width: 50%;
+    margin-left:25%;
+    
+    text-align: center;
+
+}
+#Snacks{
+    background-color: #E36414;
+    padding:30px ;
+    width: 50%;
+    margin-left:25%;
+    
+    text-align: center;
+
+    
+}
+#Dinner{
+    background-color: #9A031E;
+    padding:30px ;
+    width: 50%;
+    margin-left:25%;
+    margin-bottom: 140px;
+    
+    text-align: center;
+
+    
+}
+div{
+    text-decoration-line:none;
+
+}
+h3{
+    border-radius: 15px;
+    color: white;
+    font-family: 'EB Garamond', serif;
+font-family: 'Lemon', serif;
+    font-weight: 200;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/2683373/pexels-photo-2683373.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:100vh;
+    width: 100vw;
+
+
+
+}

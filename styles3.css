@@ -1,0 +1,16 @@
+h3{
+    background-color: #ED6B3F;
+    width:50%;
+    margin-left: 25%;
+    padding:10px;
+    border-radius: 5px;
+    font-family:'Courier New', Courier, monospace;
+}
+body{
+background-image: url("https://images.pexels.com/photos/5903160/pexels-photo-5903160.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1");
+background-position: center;
+background-repeat: no-repeat;
+width:100vw;
+height: 100vh;
+background-size: cover;
+}
